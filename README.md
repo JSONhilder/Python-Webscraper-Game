@@ -21,6 +21,11 @@ After each guess using the scraped information hints will be given to the player
 
         pipenv sync
 
-- Make sure you are in the virtual env and run the .py file
+- Make sure you are in the virtual env and run the scraper to scrape files and add contents to a CSV named quotes.csv
+        This can be automated or ran every once in a while for an update
 
-        python scraper.py
+        python csv_scraper.py
+
+- Now run the game file
+
+        python game.py
