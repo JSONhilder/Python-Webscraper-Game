@@ -9,6 +9,7 @@ After each guess using the scraped information hints will be given to the player
 ## Want to play? 
 
 - Clone the repo
+
 - Install pipenv
 
         pip install pipenv
